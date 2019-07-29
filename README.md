@@ -1,1 +1,3 @@
-This repo contains all the artwork used by tarkalabs. It is a place to add all the other logos / branding items for the products built in tarkalabs
+# Branding
+
+Use this repo to find all the assets needed for creating TarkaLabs branded content
